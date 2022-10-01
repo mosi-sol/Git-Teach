@@ -45,6 +45,7 @@ pr : merge branches to main/master
 
 ### tricks
 - git add . // `all changes`
+- git reset HEAD~1 // `return to 1-last commit`
 
 ### ssh
 - ssh-keygen -t rsa -b 4096 -C "yourEmail@domain.com"
