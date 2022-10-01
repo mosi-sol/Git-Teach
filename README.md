@@ -28,6 +28,7 @@ pr : merge branches to main/master
 ---
 
 ### Commands
+- init : create new repo
 - clone : from repo to local
 - add : for crud a file
 - commit : staging (save on git stash)
