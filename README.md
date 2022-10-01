@@ -52,6 +52,7 @@ pr : merge branches to main/master
 - ssh-keygen -t rsa -b 4096 -C "yourEmail@domain.com"
 a .pub generated for github ssh connection
 
-
+### attention
+if you living in iran sometimes maybe git commands not work, than you run a VPN for work by git...
 
 
